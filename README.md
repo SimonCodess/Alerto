@@ -5,13 +5,13 @@ Alerto is a lightweight JavaScript library that helps you create and display ale
 
 ## Table of Contents
 
--   [Installation](https://chat.openai.com/?model=gpt-4-code-interpreter#installation)
--   [Usage](https://chat.openai.com/?model=gpt-4-code-interpreter#usage)
--   [Customizing Styles](https://chat.openai.com/?model=gpt-4-code-interpreter#customizing-styles)
--   [Error Handling](https://chat.openai.com/?model=gpt-4-code-interpreter#error-handling)
--   [Queuing System](https://chat.openai.com/?model=gpt-4-code-interpreter#queuing-system)
--   [Versions](https://chat.openai.com/?model=gpt-4-code-interpreter#versions)
--   [Conclusion](https://chat.openai.com/?model=gpt-4-code-interpreter#conclusion)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Customizing Styles](#customizing-styles)
+-   [Error Handling](#error-handling)
+-   [Queuing System](#queuing-system)
+-   [Versions](#versions)
+-   [Conclusion](#conclusion)
 
 ## Installation
 
