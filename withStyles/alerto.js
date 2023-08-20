@@ -30,7 +30,6 @@ function injectStyles() {
   .alert-warning { background-color: #FBFFE0; color: #78842f; border: 1px solid #78842f; }
   .alert-info { background-color: #f0feff; color: #70898a; border: 1px solid #70898a; }
   
-  /* Fade-up Animation */
   .fade-up-in {
     animation: fadeUpIn 1s forwards;
   }
@@ -40,7 +39,6 @@ function injectStyles() {
     100% { opacity: 1; transform: translateY(0); }
   }
   
-  /* Fade-down Animation */
   .fade-up-out {
     animation: fadeDownOut 1s forwards;
   }
@@ -50,7 +48,6 @@ function injectStyles() {
     100% { opacity: 0; transform: translateY(10px); }
   }
   
-  /* Fade-in Animation */
   .fade-in-in {
     animation: fadeInIn 1s forwards;
   }
@@ -60,7 +57,6 @@ function injectStyles() {
     100% { opacity: 1; }
   }
   
-  /* Fade-out Animation */
   .fade-in-out {
     animation: fadeOutOut 1s forwards;
   }
