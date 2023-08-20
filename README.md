@@ -1,4 +1,5 @@
-# Alerto Library Documentation
+![logo](https://github.com/SimonCodess/Alerto/blob/main/AlertoLogo.png?raw=true)
+# Alerto Documentation
 
 Alerto is a lightweight JavaScript library that helps you create and display alert notifications on your website. It comes in two versions: one with predefined CSS styles and another without, giving you the flexibility to customize the appearance according to your needs.
 
