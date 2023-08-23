@@ -1,12 +1,8 @@
 # Alerto (Without Predefined CSS)
 
 ### How to Use
--   Include the JavaScript Code
-Add the Alerto JavaScript code to your project.
+-   Include the `alertoNoCSS.js`
+-   Include the `alerto.css`
 
 -  Style Your Alerts
-Since this version doesn't include predefined CSS, you'll need to define your own styles for the alerts. Use the following classes:
-
-- `.alert-container`: Container for the alert.
-- `.alert`: Base class for alerts.
-- `.alert-primary`, `.alert-success`, `.alert-danger`, `.alert-warning`, `.alert-info`: State-specific styles.
+Even though this version includes a predefined stylesheet for the alerts, it is separated to a custom CSS file, that is yours to change.
